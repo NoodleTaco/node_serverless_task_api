@@ -2,3 +2,8 @@ node_modules/
 .serverless/
 .env
 *.log
+coverage/
+.vscode/
+cloudwatch-alarm.json
+budget.json
+notifications.json
